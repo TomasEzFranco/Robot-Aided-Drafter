@@ -13,6 +13,12 @@ The files hosted in this repository are used to implement the Robot Aided Drafte
 
 ![Robot_Arm](https://github.com/user-attachments/assets/c616fc59-9f7a-4271-8a0e-a60f8165ad10)
 
+### DALI in Action:
+
+
+https://github.com/user-attachments/assets/4c05ffba-e269-4326-a279-d0fbd998627c
+
+
 ---
 
 ## Repository Map
